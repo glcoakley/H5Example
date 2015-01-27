@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B0826845-4F3C-4AB9-AC76-7DB20B0B635B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Hour5Example</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>00A714419E07310B3E450AC2951FBC3CC74BD2AE</key>
+		<string>https://github.com/glcoakley/H5Example.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Hour5Example/Hour5Example.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>00A714419E07310B3E450AC2951FBC3CC74BD2AE</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/glcoakley/H5Example.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>00A714419E07310B3E450AC2951FBC3CC74BD2AE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>00A714419E07310B3E450AC2951FBC3CC74BD2AE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>H5Example</string>
+		</dict>
+	</array>
+</dict>
+</plist>
